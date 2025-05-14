@@ -15,6 +15,12 @@ It helps you **add, view, complete, and delete tasks** directly from the termina
 
 ---
 
+# Requirements
+
+- Python 3.x
+- No external libraries are required; the project uses only built-in Python features.
+
+
 ## 🏗️ How It Works
 
 Each task is saved as a **dictionary** with two values:
